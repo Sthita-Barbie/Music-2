@@ -1,0 +1,24 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    margin: 0;
+    font-size: 20px;
+    font-family: 'DM Serif Display', serif;
+}
+.note{
+    color: black;
+    font-size: 17px;
+    font-family: 'Acme', sans-serif;
+}
+.song_name{
+    font-size: 20px;
+    font-family: 'DM Serif Display', serif;
+}
+canvas{
+    background-color: #000000;
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #73cfd8;
+}
